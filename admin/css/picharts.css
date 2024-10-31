@@ -1,0 +1,49 @@
+
+  #safetag-pie-chart-container{
+      margin-bottom: 30px;
+      padding: 25px 50px;
+  }
+  #safetag-pie-chart {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-bottom: 30px;
+  }
+
+  #safetag-legends {
+    margin: auto;
+    padding: 5px;
+    width: 230px;
+  }
+
+  #safetag-legends .entry {
+  display: flex;
+  align-items: center;
+  }
+
+  #safetag-legends .entry-color {
+      height: 10px;
+      width: 10px;
+  }
+
+  #safetag-legends .entry-text {
+    margin-left: 5px;
+    display: flex;
+    width: 230px;
+    justify-content: space-between;
+  }
+  #safetag-legends  .entry-text p{
+      line-height: 4px;
+  }
+
+  #safetag-legends  #color-red {
+  background-color: red;
+  }
+
+  #safetag-legends #color-orange {
+  background-color: orange;
+  }
+
+  #safetag-legends  #color-blue {
+  background-color: blue;
+  }

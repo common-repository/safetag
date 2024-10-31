@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "parent_id": "",
+    "tax_name": "18-20",
+    "tier" : []
+  },
+  {
+    "id": 2,
+    "parent_id": "",
+    "tax_name": "21-24",
+    "tier" : []
+  },
+  {
+    "id": 3,
+    "parent_id": "",
+    "tax_name": "25-29",
+    "tier" : []
+  },
+  {
+    "id": 4,
+    "parent_id": "",
+    "tax_name": "30-34",
+    "tier" : []
+  },
+  {
+    "id": 5,
+    "parent_id": "",
+    "tax_name": "35-39",
+    "tier" : []
+  },
+  {
+    "id": 6,
+    "parent_id": "",
+    "tax_name": "40-44",
+    "tier" : []
+  },
+  {
+    "id": 7,
+    "parent_id": "",
+    "tax_name": "45-49",
+    "tier" : []
+  },
+  {
+    "id": 8,
+    "parent_id": "",
+    "tax_name": "50-54",
+    "tier" : []
+  },
+  {
+    "id": 9,
+    "parent_id": "",
+    "tax_name": "55-59",
+    "tier" : []
+  },
+  {
+    "id": 10,
+    "parent_id": "",
+    "tax_name": "60-64",
+    "tier" : []
+  },
+  {
+    "id": 11,
+    "parent_id": "",
+    "tax_name": "65-69",
+    "tier" : []
+  },
+  {
+    "id": 12,
+    "parent_id": "",
+    "tax_name": "70-74",
+    "tier" : []
+  },
+  {
+    "id": 13,
+    "parent_id": "",
+    "tax_name": "75+",
+    "tier" : []
+  },
+  {
+    "id": 14,
+    "parent_id": "",
+    "tax_name": "Primary Education",
+    "tier" : []
+  },
+  {
+    "id": 15,
+    "parent_id": "",
+    "tax_name": "Secondary Education",
+    "tier" : []
+  },
+  {
+    "id": 16,
+    "parent_id": "",
+    "tax_name": "College Education",
+    "tier" : []
+  },
+  {
+    "id": 17,
+    "parent_id": "",
+    "tax_name": "Professional School",
+    "tier" : []
+  },
+  {
+    "id": 18,
+    "parent_id": "",
+    "tax_name": "Postgraduate Education",
+    "tier" : []
+  },
+  {
+    "id": 19,
+    "parent_id": "",
+    "tax_name": "Undergraduate Education",
+    "tier" : []
+  },
+  {
+    "id": 20,
+    "parent_id": "",
+    "tax_name": "Retired",
+    "tier" : []
+  },
+  {
+    "id": 21,
+    "parent_id": "",
+    "tax_name": "Student",
+    "tier" : []
+  },
+  {
+    "id": 22,
+    "parent_id": "",
+    "tax_name": "Employed",
+    "tier" : []
+  },
+  {
+    "id": 23,
+    "parent_id": "",
+    "tax_name": "Self-Employed",
+    "tier" : []
+  },
+  {
+    "id": 24,
+    "parent_id": "",
+    "tax_name": "Unemployed / Job Seeker",
+    "tier" : []
+  },
+  {
+    "id": 25,
+    "parent_id": "",
+    "tax_name": "Unemployed",
+    "tier" : []
+  },
+  {
+    "id": 26,
+    "parent_id": "",
+    "tax_name": "Female",
+    "tier" : []
+  },
+  {
+    "id": 27,
+    "parent_id": "",
+    "tax_name": "Male",
+    "tier" : []
+  },
+  {
+    "id": 28,
+    "parent_id": "",
+    "tax_name": "Other Gender",
+    "tier" : []
+  },
+  {
+    "id": 29,
+    "parent_id": "",
+    "tax_name": "Less than $10,000",
+    "tier" : []
+  },
+  {
+    "id": 30,
+    "parent_id": "",
+    "tax_name": "$10,000-$14,999",
+    "tier" : []
+  },
+  {
+    "id": 31,
+    "parent_id": "",
+    "tax_name": "$15,000-$19,999",
+    "tier" : []
+  },
+  {
+    "id": 32,
+    "parent_id": "",
+    "tax_name": "$20000 - $39999",
+    "tier" : []
+  },
+  {
+    "id": 33,
+    "parent_id": "",
+    "tax_name": "$40000 - $49999",
+    "tier" : []
+  },
+  {
+    "id": 34,
+    "parent_id": "",
+    "tax_name": "$50000 - $74999",
+    "tier" : []
+  },
+  {
+    "id": 35,
+    "parent_id": "",
+    "tax_name": "$75000 - $99999",
+    "tier" : []
+  },
+  {
+    "id": 36,
+    "parent_id": "",
+    "tax_name": "$100000 - $149999",
+    "tier" : []
+  },
+  {
+    "id": 37,
+    "parent_id": "",
+    "tax_name": "$150,000-$174,999",
+    "tier" : []
+  },
+  {
+    "id": 38,
+    "parent_id": "",
+    "tax_name": "$175,000-$199,999",
+    "tier" : []
+  },
+  {
+    "id": 39,
+    "parent_id": "",
+    "tax_name": "$200,000-$249,999",
+    "tier" : []
+  },
+  {
+    "id": 40,
+    "parent_id": "",
+    "tax_name": "$250,000+",
+    "tier" : []
+  },
+  {
+    "id": 41,
+    "parent_id": "",
+    "tax_name": "Co-Habiting",
+    "tier" : []
+  },
+  {
+    "id": 42,
+    "parent_id": "",
+    "tax_name": "Married",
+    "tier" : []
+  },
+  {
+    "id": 43,
+    "parent_id": "",
+    "tax_name": "Single",
+    "tier" : []
+  },
+  {
+    "id": 44,
+    "parent_id": "",
+    "tax_name": "Academic Interests",
+    "tier" : []
+  },
+  {
+    "id": 45,
+    "parent_id": "",
+    "tax_name": "Automotive",
+    "tier" : []
+  },
+  {
+    "id": 46,
+    "parent_id": "",
+    "tax_name": "Books and Literature",
+    "tier" : []
+  },
+  {
+    "id": 47,
+    "parent_id": "",
+    "tax_name": "Business and Finance",
+    "tier" : []
+  },
+  {
+    "id": 48,
+    "parent_id": "",
+    "tax_name": "Careers",
+    "tier" : []
+  },
+  {
+    "id": 49,
+    "parent_id": "",
+    "tax_name": "Education",
+    "tier" : []
+  },
+  {
+    "id": 50,
+    "parent_id": "",
+    "tax_name": "Family and Relationships",
+    "tier" : []
+  },
+  {
+    "id": 51,
+    "parent_id": "",
+    "tax_name": "Fine Art",
+    "tier" : []
+  },
+  {
+    "id": 52,
+    "parent_id": "",
+    "tax_name": "Food & Drink",
+    "tier" : []
+  },
+  {
+    "id": 53,
+    "parent_id": "",
+    "tax_name": "Health and Medical Services",
+    "tier" : []
+  },
+  {
+    "id": 54,
+    "parent_id": "",
+    "tax_name": "Healthy Living",
+    "tier" : []
+  },
+  {
+    "id": 55,
+    "parent_id": "",
+    "tax_name": "Hobbies & Interests",
+    "tier" : []
+  },
+  {
+    "id": 56,
+    "parent_id": "",
+    "tax_name": "Home & Garden",
+    "tier" : []
+  },
+  {
+    "id": 57,
+    "parent_id": "",
+    "tax_name": "Medical Health",
+    "tier" : []
+  },
+  {
+    "id": 58,
+    "parent_id": "",
+    "tax_name": "Movies",
+    "tier" : []
+  },
+  {
+    "id": 59,
+    "parent_id": "",
+    "tax_name": "Music and Audio",
+    "tier" : []
+  },
+  {
+    "id": 60,
+    "parent_id": "",
+    "tax_name": "News and Politics",
+    "tier" : []
+  },
+  {
+    "id": 61,
+    "parent_id": "",
+    "tax_name": "Personal Finance",
+    "tier" : []
+  },
+  {
+    "id": 62,
+    "parent_id": "",
+    "tax_name": "Pets",
+    "tier" : []
+  },
+  {
+    "id": 63,
+    "parent_id": "",
+    "tax_name": "Pharmaceuticals, Conditions, and Symptoms",
+    "tier" : []
+  },
+  {
+    "id": 64,
+    "parent_id": "",
+    "tax_name": "Pop Culture",
+    "tier" : []
+  },
+  {
+    "id": 65,
+    "parent_id": "",
+    "tax_name": "Real Estate",
+    "tier" : []
+  },
+  {
+    "id": 66,
+    "parent_id": "",
+    "tax_name": "Shopping",
+    "tier" : []
+  },
+  {
+    "id": 67,
+    "parent_id": "",
+    "tax_name": "Sports",
+    "tier" : []
+  },
+  {
+    "id": 68,
+    "parent_id": "",
+    "tax_name": "Style & Fashion",
+    "tier" : []
+  },
+  {
+    "id": 69,
+    "parent_id": "",
+    "tax_name": "Technology & Computing",
+    "tier" : []
+  },
+  {
+    "id": 70,
+    "parent_id": "",
+    "tax_name": "Television",
+    "tier" : []
+  },
+  {
+    "id": 71,
+    "parent_id": "",
+    "tax_name": "Travel",
+    "tier" : []
+  },
+  {
+    "id": 72,
+    "parent_id": "",
+    "tax_name": "Video Gaming",
+    "tier" : []
+  }
+]
